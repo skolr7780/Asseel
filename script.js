@@ -56,7 +56,7 @@ class TextScramble {
 
 const phrases = [
 'Hi,',
-'Riri',
+'As',
 'i love u',
 'and',
 'i miss u ',
@@ -64,7 +64,7 @@ const phrases = [
 'you\'re beautiful',
 'أحبك يالغزمه',
 '4u',
-'Renad',
+'As',
 ];
 
 
