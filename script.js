@@ -56,7 +56,7 @@ class TextScramble {
 
 const phrases = [
 'Hi,',
-'فطيم',
+'اسييييلي',
 'i love u',
 'و',
 'miss u ',
@@ -66,7 +66,7 @@ const phrases = [
 '‏كيف الهروب من حُبها وهي مُنايا وغايتي ؟',
 'أحبك يالغزمه',
 '4u',
-'Fa',
+'Aseel',
 ];
 
 
